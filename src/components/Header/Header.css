@@ -1,0 +1,41 @@
+.Header {
+    font-size: 1.8rem;
+    height: 56px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #E54A59;
+    display: flex;
+    justify-content: space-between;
+    text-align: right;
+    padding: 0 20px;
+    box-sizing: border-box;
+    z-index: 50;
+    border-bottom: 3px solid #605a5b;
+
+}
+
+.Header div {
+    width: 20%;
+}
+.Header nav {
+    height: 100%;
+}
+
+.barter  {
+  color: white;
+  text-decoration: none;
+  text-decoration-line: none;
+
+}
+
+.barter a {
+  text-decoration: none;
+  color: white;
+}
+.Logo {
+    display: flex;
+    align-items: center;
+    color: white;
+}

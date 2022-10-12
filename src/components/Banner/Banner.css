@@ -1,0 +1,33 @@
+.Banner {
+    margin-top: 5.5rem;
+    background-color: #474142;
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.logo img {
+    width: 30rem;
+    padding: 3rem;
+}
+
+.joinText {
+    margin-bottom: 3rem;
+}
+
+.title {
+    color: white;
+    font-size: 4rem;
+}
+.font {
+    font-family: sans-serif;
+    font-weight: 200;
+    font-size: 1.6rem;
+    color: white;
+}
